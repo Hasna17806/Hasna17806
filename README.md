@@ -42,7 +42,7 @@ Currently, I'm improving my problem-solving skills by learning **Data Structures
 
 ## 📫 Connect with Me
 
-- Portfolio: https://yourportfolio.vercel.app
-- Email: your@email.com
+- Portfolio: https://port-folio-ten-mocha.vercel.app/
+- Email: hasnahamza807@gmail.com
 
 Thanks for visiting my profile! 😊
