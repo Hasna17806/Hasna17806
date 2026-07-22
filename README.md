@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Hasna Hamza
+# Hi there! I'm Hasna Hamza
 
 ### MERN Stack Developer | React.js Enthusiast | DSA Learner
 
