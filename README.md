@@ -9,7 +9,11 @@ Building scalable web applications with clean code and modern technologies.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+Next.js+%26+TypeScript;Exploring+Backend+Architecture;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Real+World+MERN+Projects;
+Learning+Next.js+One+Step+at+a+Time;
+Turning+Ideas+Into+Web+Applications;
+Passionate+About+Clean+Code;
+Always+Learning,+Always+Growing" />
 </p>
 
 <p align="center">
@@ -20,14 +24,22 @@ Building scalable web applications with clean code and modern technologies.
   <a href="mailto:hasnahamza807@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+    <a href="https://github.com/Hasna1786">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-I'm a passionate web developer from Kerala, India, who enjoys building responsive and user-friendly web applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hasna1786&label=Profile%20Views&color=A855F7&style=for-the-badge" />
+</p>
 
-I have completed a one-year internship as a MERN Stack Developer, where I worked on real-world projects and strengthened my frontend and backend development skills.
+## 🚀 About Me
 
-Currently, I'm improving my problem-solving skills by learning **Data Structures and Algorithms (DSA)** while continuing to build new projects.
-
+- 💻 Building full-stack web applications with the MERN Stack.
+- 🌱 Currently learning Next.js, TypeScript, and scalable application architecture.
+- 🧩 Enjoy solving DSA problems to improve problem-solving skills.
+- 🎯 Goal: Become a skilled Full Stack Developer who builds impactful products.
 ---
 
 ## 💻 Tech Stack
