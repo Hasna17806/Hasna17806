@@ -44,7 +44,7 @@ I'm passionate about turning ideas into real-world web applications. I enjoy lea
 
 ## 🛠 Tech Arsenal
 
-<h6 align="center">Frontend<h6>
+<h2 align="center">Frontend<h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&perline=7" />
