@@ -35,8 +35,10 @@ Building scalable web applications with clean code and modern technologies.
 |:------------|:---------------------|
 | 🌱 **Currently Learning** | Next.js • TypeScript • DSA |
 | 💻 **Tech Stack** | MERN (MongoDB, Express, React, Node.js) |
-| 🎯 **Current Goal** | Build scalable, user-friendly web applications |
+| 🎯 **Mission** | Build scalable, user-friendly web applications |
 | 📍 **Location** | Kerala, India |
+
+I'm passionate about turning ideas into real-world web applications. I enjoy learning new technologies, solving problems, and continuously improving my development skills.
 
 ## 💻 Tech Stack
 
