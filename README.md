@@ -40,25 +40,33 @@ Building scalable web applications with clean code and modern technologies.
 
 I'm passionate about turning ideas into real-world web applications. I enjoy learning new technologies, solving problems, and continuously improving my development skills.
 
-## ⚡ Tech Arsenal
+---
 
-### 🎨 Frontend
+## 🛠 Tech Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
-</p>
-
-### ⚙ Backend
+### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&perline=7" />
 </p>
 
-### 🧰 Tools
+<br>
+
+### Backend & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=4" />
 </p>
+
+<br>
+
+### Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&perline=6" />
+</p>
+
+---
 
 ---
 
