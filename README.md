@@ -40,16 +40,25 @@ Building scalable web applications with clean code and modern technologies.
 
 I'm passionate about turning ideas into real-world web applications. I enjoy learning new technologies, solving problems, and continuously improving my development skills.
 
-## 💻 Tech Stack
+## ⚡ Tech Arsenal
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+</p>
+
+### ⚙ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧰 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
