@@ -9,11 +9,7 @@ Building scalable web applications with clean code and modern technologies.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Real+World+MERN+Projects;
-Learning+Next.js+One+Step+at+a+Time;
-Turning+Ideas+Into+Web+Applications;
-Passionate+About+Clean+Code;
-Always+Learning,+Always+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+Next.js+%26+TypeScript;Exploring+Backend+Architecture;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
@@ -30,17 +26,24 @@ Always+Learning,+Always+Growing" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hasna1786&label=Profile%20Views&color=A855F7&style=for-the-badge" />
-</p>
+
+<hr style="border:1px solid #30363d;">
 
 ## 🚀 About Me
 
-- 💻 Building full-stack web applications with the MERN Stack.
-- 🌱 Currently learning Next.js, TypeScript, and scalable application architecture.
-- 🧩 Enjoy solving DSA problems to improve problem-solving skills.
-- 🎯 Goal: Become a skilled Full Stack Developer who builds impactful products.
----
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 💻 Building **full-stack web applications** using the MERN Stack.
+
+- 🌱 Currently exploring **Next.js**, **TypeScript**, and scalable application architecture.
+
+- 🧩 Strengthening my problem-solving skills through **Data Structures & Algorithms**.
+
+- 🎯 My goal is to build applications that are clean, responsive, and user-focused.
+
+- ✨ Always learning, improving, and building something new.
+
+<br clear="right"/>
 
 ## 💻 Tech Stack
 
