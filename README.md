@@ -31,19 +31,12 @@ Building scalable web applications with clean code and modern technologies.
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-- 💻 Building **full-stack web applications** using the MERN Stack.
-
-- 🌱 Currently exploring **Next.js**, **TypeScript**, and scalable application architecture.
-
-- 🧩 Strengthening my problem-solving skills through **Data Structures & Algorithms**.
-
-- 🎯 My goal is to build applications that are clean, responsive, and user-focused.
-
-- ✨ Always learning, improving, and building something new.
-
-<br clear="right"/>
+| 💼 **Role** | Full Stack Developer |
+|:------------|:---------------------|
+| 🌱 **Currently Learning** | Next.js • TypeScript • DSA |
+| 💻 **Tech Stack** | MERN (MongoDB, Express, React, Node.js) |
+| 🎯 **Current Goal** | Build scalable, user-friendly web applications |
+| 📍 **Location** | Kerala, India |
 
 ## 💻 Tech Stack
 
