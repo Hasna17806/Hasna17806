@@ -9,7 +9,7 @@ Building scalable web applications with clean code and modern technologies.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=#D4AF37&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+Next.js+%26+TypeScript;Exploring+Backend+Architecture;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+Next.js+%26+TypeScript;Exploring+Backend+Architecture;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
