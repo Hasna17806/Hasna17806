@@ -121,13 +121,15 @@ A full-stack expense management application built with Next.js and TypeScript wi
 
 ---
 
-## 📈 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasna1786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hasna1786&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasna1786&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasna1786&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
@@ -135,17 +137,17 @@ A full-stack expense management application built with Next.js and TypeScript wi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Hasna1786&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Hasna1786&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasna1786&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasna1786&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
