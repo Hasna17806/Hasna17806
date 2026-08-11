@@ -195,7 +195,7 @@ TypeScript.
 <div align="center">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasna1786&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasna17806&theme=github_dark"
 width="100%"
 />
 
@@ -239,17 +239,17 @@ width="70%"
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Hasna17806/Hasna1786/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Hasna17806/Hasna17806/output/github-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Hasna17806/Hasna1786/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/Hasna17806/Hasna17806/output/github-snake.svg"
   />
 
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Hasna17806/Hasna1786/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Hasna17806/Hasna17806/output/github-snake.svg"
     width="100%"
   />
 </picture>
