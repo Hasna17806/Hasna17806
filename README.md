@@ -1,17 +1,64 @@
 <h1 align="center">Hi 👋, I'm Hasna Hamza</h1>
-<h3 align="center">Full Stack Developer | MERN | Next.js | TypeScript | React.js | Node.js</h3>
-
-- 🌱 I’m currently learning **Docker, SQL, AWS**
-
-- 👨‍💻 All of my projects are available at [https://port-folio-ten-mocha.vercel.app/](https://port-folio-ten-mocha.vercel.app/)
-
-- 💬 Ask me about **I'm passionate about turning ideas into real-world web applications. I enjoy learning new technologies, solving problems, and continuously improving my development skills.**
-
-- 📫 How to reach me **hasnahamza807@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">
+Full Stack Developer • MERN • React • Node.js • TypeScript • Next.js • MongoDB
+</h3>
+<p align="center">
+Building scalable web applications with clean code and modern technologies.
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+Next.js+%26+TypeScript;Exploring+Backend+Architecture;Always+Learning+Something+New" />
+</p>
+<p align="center">
+  <a href="https://port-folio-ten-mocha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a
+  <a href="mailto:hasnahamza807@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Hasna1786">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<hr style="border:1px solid #30363d;">
+## 🚀 About Me
+| 💼 **Role** | Full Stack Developer |
+|:------------|:---------------------|
+| 🌱 **Currently Learning** | Next.js • TypeScript • DSA |
+| 💻 **Tech Stack** | MERN (MongoDB, Express, React, Node.js) |
+| 🎯 **Mission** | Build scalable, user-friendly web applications |
+| 📍 **Location** | Kerala, India |
+I'm passionate about turning ideas into real-world web applications. I enjoy learning new technologies, solving problems, and continuously improving my development skills.
+---
+## 🛠 Tech Arsenal
+<div align="center">
+  
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&perline=7" />
+</p>
+<br>
+### Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=4" />
+</p>
+<br>
+### Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&perline=6" />
+</p>
+<div/>
+---
+## 🚀 Projects
+- 🌿 Zenly – Student Wellbeing Platform
+- 👜 BagHaven – Full Stack E-commerce Website
+- 👗 Zyra – React E-commerce Website
+- 🌐 Personal Portfolio
+---
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- Advanced React
+- Backend Development Best Practices
+---
+## 📫 Connect with Me
+- Portfolio: https://port-folio-ten-mocha.vercel.app/
+- Email: hasnahamza807@gmail.com
