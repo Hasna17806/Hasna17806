@@ -210,33 +210,6 @@ TypeScript.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Hasna17806/Hasna17806/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Hasna17806/Hasna17806/output/github-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/Hasna17806/Hasna17806/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-
-</picture>
-
-</div>
-
----
-
 ## 🧠 Data Structures & Algorithms
 
 I've studied **Data Structures & Algorithms** to strengthen my programming
