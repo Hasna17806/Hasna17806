@@ -206,12 +206,12 @@ width="100%"
 <div align="center">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasna1786&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasna17806&theme=github_dark"
 width="49%"
 />
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hasna1786&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hasna17806&theme=github_dark"
 width="49%"
 />
 
@@ -224,7 +224,7 @@ width="49%"
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=Hasna1786&theme=github-dark-blue&hide_border=true"
+src="https://streak-stats.demolab.com?user=Hasna17806&theme=github-dark-blue&hide_border=true"
 width="70%"
 />
 
@@ -239,17 +239,17 @@ width="70%"
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Hasna1786/Hasna1786/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Hasna17806/Hasna1786/output/github-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Hasna1786/Hasna1786/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/Hasna17806/Hasna1786/output/github-snake.svg"
   />
 
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Hasna1786/Hasna1786/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Hasna17806/Hasna1786/output/github-snake.svg"
     width="100%"
   />
 </picture>
