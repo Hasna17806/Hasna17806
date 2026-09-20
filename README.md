@@ -4,14 +4,15 @@
 
 ### Full Stack Developer | MERN | React | Node.js | TypeScript | Next.js
 
-Building modern, responsive, and scalable web applications with clean code,
-strong fundamentals, and a continuous learning mindset.
+Building modern, responsive web applications while continuously improving
+my development skills, problem-solving abilities, and understanding of
+full-stack technologies.
 
 <br />
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript;Exploring+Cloud+%26+DevOps;Always+Learning+Something+New"
-  alt="Typing SVG"
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Exploring+Cloud+%26+DevOps;Always+Learning+Something+New"
+alt="Typing SVG"
 />
 
 <br /><br />
@@ -40,8 +41,8 @@ strong fundamentals, and a continuous learning mindset.
 <br /><br />
 
 <img
-  src="https://komarev.com/ghpvc/?username=Hasna17806&label=Profile%20Views&color=8B5CF6&style=flat-square"
-  alt="Profile Views"
+src="https://komarev.com/ghpvc/?username=Hasna17806&label=Profile%20Views&color=8B5CF6&style=flat-square"
+alt="Profile Views"
 />
 
 </div>
@@ -50,33 +51,42 @@ strong fundamentals, and a continuous learning mindset.
 
 ## 👩‍💻 About Me
 
-I'm a **Full Stack Developer** passionate about turning ideas into
-real-world web applications.
+I'm a **Full Stack Developer** who enjoys turning ideas into practical,
+user-friendly web applications.
 
-I enjoy working across the development process — from building responsive
-interfaces to developing backend APIs, authentication systems, database
-integrations, and full-stack application architecture.
+I work across both frontend and backend development — from creating
+responsive interfaces and reusable components to building REST APIs,
+authentication systems, database integrations, and full-stack applications.
 
-I've studied **Data Structures & Algorithms** to strengthen my problem-solving
-skills, and I'm currently expanding my knowledge in **Docker, SQL, AWS, and
-DevOps**.
+I've studied **Data Structures & Algorithms** to strengthen my programming
+fundamentals and problem-solving skills.
 
-### ⚡ Quick Overview
+I'm also expanding my knowledge beyond the MERN stack by learning
+**TypeScript, Next.js, SQL, Docker, AWS, and DevOps practices**.
 
-| | |
-|---|---|
-| 💼 **Role** | Full Stack Developer |
-| 🧩 **Primary Stack** | MERN |
-| 🎨 **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| ⚙️ **Backend** | Node.js, Express.js |
-| 🗄️ **Database** | MongoDB, SQL |
-| 🧠 **Problem Solving** | Data Structures & Algorithms |
-| 🌱 **Currently Learning** | Docker, SQL, AWS & DevOps |
-| 📍 **Based In** | Kerala, India |
+I enjoy learning by building projects, solving problems, debugging,
+and continuously improving my development skills.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Quick Overview
+
+|                        |                                                      |
+| ---------------------- | ---------------------------------------------------- |
+| 💼 **Role**            | Full Stack Developer                                 |
+| 🧩 **Primary Stack**   | MERN                                                 |
+| 🎨 **Frontend**        | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| ⚙️ **Backend**         | Node.js, Express.js                                  |
+| 🗄️ **Databases**      | MongoDB, PostgreSQL, SQL                             |
+| 🔐 **Authentication**  | JWT, NextAuth.js                                     |
+| 🧠 **Problem Solving** | Data Structures & Algorithms                         |
+| ☁️ **Cloud & DevOps**  | AWS, Docker, GitHub Actions                          |
+| 🛠️ **Tools**          | Git, GitHub, Figma, Postman, VS Code                 |
+| 📍 **Based In**        | Kerala, India                                        |
+
+---
+
+# 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
@@ -87,7 +97,13 @@ DevOps**.
 ### ⚙️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" alt="Backend and Database Technologies" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx" alt="Cloud and DevOps Technologies" />
 </p>
 
 ### 🔧 Development Tools
@@ -100,54 +116,62 @@ DevOps**.
 
 # 🚀 Featured Projects
 
-### 🌿 [Zenly — Student Wellbeing Platform](https://github.com/Hasna17806/Zenly)
+## 🌿 [Zenly — Student Wellbeing Platform](https://github.com/Hasna17806/Zenly)
 
-A full-stack MERN application designed around student wellbeing and support.
+A full-stack MERN application designed around student wellbeing and
+support, with a focus on creating a user-friendly digital experience.
 
 **Tech:** `React` `Node.js` `Express.js` `MongoDB`
 
 **Highlights**
-- Full-stack MERN architecture
-- Authentication
-- REST API integration
-- Responsive interface
-- User-focused features
+
+* Full-stack MERN architecture
+* User authentication
+* REST API integration
+* Responsive interface
+* Role-based functionality
+* User-focused features
 
 ---
 
-### 👜 [BagHaven — Full Stack E-commerce](https://github.com/Hasna17806/BagHaven)
+## 👜 [BagHaven — Full Stack E-commerce](https://github.com/Hasna17806/BagHaven)
 
-A full-stack e-commerce application for browsing products, managing carts,
-authentication, and online payments.
+A full-stack e-commerce application for browsing products, managing
+shopping carts, handling authentication, and processing online payments.
 
 **Tech:** `React` `Node.js` `Express.js` `MongoDB` `PayPal`
 
 **Highlights**
-- Product management
-- Authentication
-- Shopping cart
-- Backend APIs
-- Payment integration
+
+* Product management
+* User authentication
+* Shopping cart
+* Wishlist and order management
+* Backend REST APIs
+* Payment integration
+* Responsive interface
 
 ---
 
-### 👗 [Zyra — Fashion E-commerce](https://github.com/Hasna17806/ZYRA)
+## 👗 [Zyra — Fashion E-commerce](https://github.com/Hasna17806/ZYRA)
 
-A modern fashion e-commerce application focused on responsive design,
-product browsing, and a smooth shopping experience.
+A React-based fashion e-commerce project created as part of my frontend
+development learning journey.
 
-**Tech:** `React` `Tailwind CSS` `Redux Toolkit`
+**Tech:** `React` `JavaScript` `Tailwind CSS` `Redux Toolkit`
 
 **Highlights**
-- Product browsing
-- Product details
-- Cart management
-- Responsive UI
-- State management
+
+* Product browsing
+* Product details
+* Shopping cart
+* Redux state management
+* Responsive UI
+* Component-based architecture
 
 ---
 
-### 📚 [Ziblio — Book Library Manager](https://github.com/Hasna17806/Ziblio-library-manager)
+## 📚 [Ziblio — Book Library Manager](https://github.com/Hasna17806/Ziblio-library-manager)
 
 A personal book library management application built with Next.js and
 TypeScript.
@@ -155,62 +179,40 @@ TypeScript.
 **Tech:** `Next.js` `TypeScript` `Tailwind CSS` `MongoDB` `NextAuth.js`
 
 **Highlights**
-- User authentication
-- Personal book collections
-- Book cover images
-- Reading status
-- Notes
-- User-specific CRUD operations
+
+* User authentication
+* Protected routes
+* Personal book collections
+* Book cover images
+* Reading status
+* Notes
+* User-specific CRUD operations
+* Responsive design
 
 ---
 
-### 💰 [ZenSpend — Expense Tracker](https://github.com/Hasna17806/ZenSpend-expense-tracker-ts)
+## 💰 [ZenSpend — Expense Tracker](https://github.com/Hasna17806/ZenSpend-expense-tracker-ts)
 
 A full-stack expense management application built with Next.js and
-TypeScript.
+TypeScript for managing personal income and expenses.
 
-**Tech:** `Next.js` `TypeScript` `MongoDB` `Tailwind CSS`
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `MongoDB` `NextAuth.js`
 
 **Highlights**
-- Authentication
-- Protected routes
-- Expense CRUD
-- API routes
-- MongoDB integration
-- Form validation
-- Responsive design
+
+* User authentication
+* Protected routes
+* Income and expense management
+* CRUD operations
+* Search and filtering
+* Summary dashboard
+* MongoDB integration
+* Form validation
+* Responsive design
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasna17806&theme=github_dark"
-  width="100%"
-  alt="GitHub Profile Details"
-/>
-
-<br /><br />
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasna17806&theme=github_dark"
-  width="49%"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hasna17806&theme=github_dark"
-  width="49%"
-  alt="Repository Languages"
-/>
-
-</div>
-
----
-
-## 🧠 Data Structures & Algorithms
+# 🧠 Data Structures & Algorithms
 
 I've studied **Data Structures & Algorithms** to strengthen my programming
 fundamentals and problem-solving abilities.
@@ -225,31 +227,132 @@ fundamentals and problem-solving abilities.
 
 ---
 
-## 🌱 Currently Learning
+# ☁️ Cloud & DevOps
 
-I'm currently expanding beyond the MERN stack and exploring technologies
-used to build, deploy, and maintain production applications.
+I'm currently expanding my knowledge into the tools and practices used to
+deploy, maintain, and manage modern web applications.
 
 ### 🐳 Docker
-Containerization, Dockerfiles, images, containers, and Docker Compose.
 
-### 🗄️ SQL
-Learning relational databases, queries, joins, relationships, and database
-design.
+Learning containerization, Dockerfiles, images, containers, networking,
+volumes, and Docker Compose.
+
+### 🗄️ SQL & PostgreSQL
+
+Working with relational databases, SQL queries, joins, relationships,
+database design, and PostgreSQL.
 
 ### ☁️ AWS
-Exploring cloud fundamentals and AWS services.
 
-### ⚙️ DevOps
-Learning CI/CD, automation, deployment, and production workflows.
+Exploring AWS fundamentals and services such as:
 
-### 🎯 Current Focus
+`EC2` • `S3` • `IAM` • `Security Groups` • `Elastic IP` • `CloudWatch`
+
+### ⚙️ CI/CD & DevOps
+
+Learning:
+
+`GitHub Actions` • `CI/CD` • `Docker Compose` • `Nginx` • `Deployment`
+
+---
+
+# 📈 What I'm Currently Improving
 
 ```text
-Docker
-   ↓
-SQL
-   ↓
-AWS
-   ↓
-DevOps
+Full Stack Development
+        ↓
+TypeScript & Next.js
+        ↓
+SQL & PostgreSQL
+        ↓
+Docker & Containerization
+        ↓
+AWS & Cloud Fundamentals
+        ↓
+CI/CD & DevOps
+        ↓
+Problem Solving & DSA
+```
+
+---
+
+# 🎯 My Development Goals
+
+* Build more production-style full-stack applications
+* Improve my JavaScript and TypeScript fundamentals
+* Strengthen backend and database knowledge
+* Gain more practical experience with AWS
+* Improve Docker and CI/CD skills
+* Practice Data Structures & Algorithms regularly
+* Write cleaner and more maintainable code
+* Learn from real-world projects and development challenges
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasna17806&theme=github_dark"
+width="100%"
+alt="GitHub Profile Details"
+/>
+
+<br /><br />
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasna17806&theme=github_dark"
+width="49%"
+alt="GitHub Stats"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hasna17806&theme=github_dark"
+width="49%"
+alt="Repository Languages"
+/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in learning, building, collaborating, and connecting
+with other developers.
+
+<div align="center">
+
+<a href="https://port-folio-ten-mocha.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://github.com/Hasna17806">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="mailto:hasnahamza807@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+**Keep learning. Keep building. Keep improving. 🚀**
+
+</div>
